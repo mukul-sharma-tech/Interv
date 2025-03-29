@@ -10,7 +10,6 @@ import fs from "fs";
 import pdfParse from "pdf-parse"; // Extracts text from PDFs
 import { v2 as cloudinary } from 'cloudinary';
 
-
 const app = express();
 
 // Middleware Configuration
